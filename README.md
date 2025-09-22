@@ -11,4 +11,6 @@ This repository contains my solution to the [Maven Pizza Challenge](https://mave
 Data Preparation: Power Query for data cleaning and transformation.
 Visualization: Power BI for dashboard development.
 
+## ✅ Solution
 The dashboard can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiYTIwODkxZTAtNDI4MC00MDVhLTg2MzItMjg3ZmYxN2ZkMzM3IiwidCI6ImE1NjM2OGEwLTcxMmYtNDMwYi05NWRiLTkwOWVhY2Y0NTgzZiIsImMiOjl9)
+
